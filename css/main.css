@@ -65,7 +65,7 @@ hr {
 }
 .section-header .section-title:before {
   content: "";
-  position: fixed;
+  position: absolute;
   width: 140px;
   bottom: 0;
   left: 50%;
@@ -75,7 +75,7 @@ hr {
 }
 .section-header .section-title:after {
   content: "";
-  position: fixed;
+  position: absolute;
   width: 24px;
   height: 24px;
   bottom: -11px;
