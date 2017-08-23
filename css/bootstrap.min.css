@@ -42,7 +42,7 @@
       display:block !important;
   }
 }
-*/
+*/     /* dinna lange greia her ville visst ikkje hjelpe uansett... */
 
 @media (min-width: 768px) and (max-width: 1200px) {
     .navbar-collapse.collapse {
@@ -56,7 +56,7 @@
     }
     .navbar-header {
         float:none;
-    }
+    }                     /* Den seksjonen her gjorde at navbar kollapsa på 1080 elns (sjølv om ej skreiv 1200..???) jaja d funka jo */
     .navbar-collapse {
       border-top: 1px solid transparent;
       box-shadow: inset 0 1px 0 rgba(255,255,255,0.1); } /* dinna gjorde visst intet, prøvde å bruke denne for å gjere navbar gjennomsiktig, men neinei */
