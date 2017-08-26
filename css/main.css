@@ -312,7 +312,7 @@ ul.nostyle i {
   background: #242a33 url(../images/cta2/cta2-bg.jpg) no-repeat 50% 50%;
   background-size: cover;
   color: #fff;
-  padding-top: 70px;
+  padding-top: 0px; /* va 70px */
 }
 #cta2 .btn {
   margin-top: 10px;
