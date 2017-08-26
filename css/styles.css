@@ -7,3 +7,19 @@ Author URL: http://hostingred.com
 /*******************************************
 USE THIS FILE TO INCLUDE YOUR OWN CSS STYLES
 ********************************************/
+
+
+.work-process {
+  width: 100%;
+  &:before {
+    content: "";
+    float: left;
+    //this div will be only half as tall as it is wide
+    padding-bottom: 50%;
+  }
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
