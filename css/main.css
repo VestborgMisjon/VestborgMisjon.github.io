@@ -309,8 +309,8 @@ ul.nostyle i {
   margin-top: 40px;
 }
 #cta2 {
-  background: rgba(255, 179, 179, 0.09); url(../images/cta2/cta2-bg.jpg) no-repeat 50% 50%; /* før va d background: #242a33 */
-  background-size: cover;
+  background: rgba(255, 179, 179, 0.09); url(../images/cta2/cta2-bg.jpg) no-repeat 50% 50%; /* før va d background: #242a33 */ /* obs om ein vil ha bakgrunn kan ein uncommente url */
+  background-size: cover; 
   color: #fff;
   padding-top: 0px; /* va 70px */
 }
