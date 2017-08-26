@@ -546,7 +546,7 @@ ul.nostyle i {
   padding: 10px 0 50px;
   background: #20222e url(../images/Indonesiaplakat_top.png) no-repeat 0 0;
   background-size: cover;
-  max-height: 200px;  /* for å få work-process til å ikkje utvide seg i høgda i mobilformat */
+  /*max-height: 200px;  *//* for å få work-process til å ikkje utvide seg i høgda i mobilformat obs. funka berre på bilete, ikkje på sjølve containeren */
   color: #fff;
 }
 #work-process h2 {
@@ -582,7 +582,7 @@ ul.nostyle i {
   margin-bottom: 50px;
 }
 #meet-team {
-  padding: 100px 0;
+  padding-top: 100px;   /* før va d padding: 100px 0; */
 }
 #meet-team .team-member {
   padding: 13px;
