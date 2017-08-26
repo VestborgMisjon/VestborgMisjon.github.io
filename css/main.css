@@ -546,7 +546,7 @@ ul.nostyle i {
   padding: 10px 0 50px;
   background: #20222e url(../images/Indonesiaplakat_top.png) no-repeat 0 0;
   background-size: cover;
-  max-height: 200 px;  /* for å få work-process til å ikkje utvide seg i høgda i mobilformat */
+  max-height: 200px;  /* for å få work-process til å ikkje utvide seg i høgda i mobilformat */
   color: #fff;
 }
 #work-process h2 {
