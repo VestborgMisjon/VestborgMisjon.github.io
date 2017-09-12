@@ -1,3 +1,7 @@
+// Her e sann THANKYOU-ting
+
+
+
 document.body.onload = function() {
   // SELECTING...
   // T
@@ -309,4 +313,9 @@ document.body.onload = function() {
   if (window.innerWidth < 600) {
     svg.style.width = window.innerWidth+'px';
   }
-}
+}    
+
+
+
+
+/* HER E THANK YOU slutt */
