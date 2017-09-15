@@ -1,22 +1,21 @@
 body {
   font: 400 1em/1.5 "Neuton";
-  background: #090d00;
+  background: rgb(105, 84, 84);
   color: rgba(255, 255, 255, 0.25);
   text-align: center;
   margin: 0; }
 
 p {
-  text-transform: uppercase;
-  letter-spacing: .5em;
-  display: inline-block;
-  border: 4px double rgba(255, 255, 255, 0.25);
-  border-width: 4px 0;
-  padding: 1.5em 0em;
-  position: absolute;
-  top: 18%;
-  left: 50%;
-  width: 40em;
-  margin: 0 0 0 -20em; }
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    display: inline-block;
+    border: 4px double rgba(255, 255, 255, 0.25);
+    border-width: 4px 0;
+    padding: 1.5em 0em;
+    top: 18%;
+    width: inherit;
+    margin: 0 0 0 0em;
+    position: sticky; }
   p span {
     font: 700 4em/1 "Oswald", sans-serif;
     letter-spacing: 0;
