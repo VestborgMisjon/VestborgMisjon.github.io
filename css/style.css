@@ -3,14 +3,14 @@ body {
   background: #ce526f;
   overflow: hidden;
   width: 100%; }
-
+                      /* Notabene: Ditta he me Thank you-animasjonen å gjere */
 svg {
   width: 600px;
   margin: 0 auto;
   position: relative;
   display: block;
   z-index: 0;
-  padding-top: 280px; }
+  padding-top: 80px; }
   svg text {
     fill: #fff;
     font-family: 'Oswald';
@@ -45,7 +45,7 @@ svg {
     stroke: #241E4E; }
 
 #play {
-  font-size: 10px;
+  font-size: 15px;
   color: #fff;
   display: block;
   position: 'relative';
