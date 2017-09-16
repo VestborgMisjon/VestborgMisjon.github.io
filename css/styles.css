@@ -25,8 +25,9 @@ USE THIS FILE TO INCLUDE YOUR OWN CSS STYLES
 }
 
 
-/* Ditta e kontonr og vipps på donasjonssida */
+/* Ditta e kontonr og vipps på donasjonssida, funka, men ikkje like bra som d som e no */
 
+/*
 .hit-the-floor0 {
 color: #fff;
 font-size: 4em;
@@ -93,9 +94,9 @@ text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px
 
 body {
   background-color: #f1f1f1;
-}
+}                                                        */
  
-/* Her sluttar kontonr og vipps på donasjonssida */
+/* Her sluttar kontonr og vipps på donasjonssida som va før, funka men ikkje like bra som det som blir brukt no */
 
 
 /* Her startar brevet-tingen */
@@ -116,7 +117,7 @@ body {
 		margin-top: -125px;
 		height: 100px;
 		width: 200px;
-		background: rgba(0, 0, 0, 0.1);
+		background: rgba(0, 0, 0, 0);
 		
 		border-radius: 2px;
 		-ms-border-radius: 2px;
