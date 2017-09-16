@@ -101,7 +101,7 @@ body {
 /* Her startar brevet-tingen */
 
 #bg {
-		position: absolute;
+		position: inherit;
 		left: 0px;
 		top: 0px;
 		height: 100%;
