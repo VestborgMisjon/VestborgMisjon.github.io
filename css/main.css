@@ -923,6 +923,9 @@ ul.nostyle i {
   padding-top: 20px;
   padding-bottom: 20px;
   color: #fff;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
   background: #2e2e2e;
 }
 #footer a {
