@@ -783,7 +783,7 @@ ul.nostyle i {
   color: #fff;
 }
 #get-in-touch {
-  padding: 100px 0 50px;
+  padding: 100px 0 150px;   /* burde eigentleg vere 50px bottom der trur ej, men ditta gjer at ein kjem heilt ned til "kontakt oss" i navigasjonsbar når ein trykker på den */
   background-image: -moz-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
   background-image: -webkit-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
   background-image: -ms-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
