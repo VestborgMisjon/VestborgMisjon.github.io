@@ -923,9 +923,6 @@ ul.nostyle i {
   padding-top: 20px;
   padding-bottom: 20px;
   color: #fff;
-  position: fixed;
-  width: 100%;
-  bottom: 0;
   background: #2e2e2e;
 }
 #footer a {
@@ -954,7 +951,45 @@ ul.nostyle i {
 }
 
 
+/***************************************
+********* Footer på donasjonsside ******
+****************************************/
 
+#HR {display:none;}
+
+#footer1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  background: #2e2e2e;
+}
+#footer1 a {
+  color: #fff;
+}
+#footer1 a:hover {
+  color: #BE1414;
+}
+#footer1 ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 -7.5px;
+}
+#footer1 ul > li {
+  display: inline-block;
+  margin: 0 7.5px;
+}
+@media only screen and (min-width: 768px) {
+  #footer1 .social-icons {
+    float: right;
+  }
+}
+.form-control {
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
 
 
 
