@@ -544,6 +544,7 @@ ul.nostyle i {
 }
 #about {
   padding: 100px 0;
+  padding-bottom: 10px;
 }
 #work-process {
   padding: 10px 0 50px;
