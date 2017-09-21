@@ -118,7 +118,7 @@ body {
 		min-width: 100%; 	/* Dinna e ny og for å få den til å halde seg i midten  */
 		height: 100px;
 		width: 200px;
-		background: rgba(0, 0, 0, 0);
+		/* background: rgba(0, 0, 0, 0);  */
 		
 		border-radius: 2px;
 		-ms-border-radius: 2px;
