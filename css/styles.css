@@ -331,21 +331,15 @@ body {
 
 /* Her startar css for bønesida */
 
-/* 
 
-Manuscript Free Template
-By Herreman David 
-http://www.free-css-templates.com
-
-*/
-* { padding: 0; margin: 0 }
-body { margin:5px 0; padding:0; font: 74% Arial, Sans-Serif; color:#000; line-height: 1.4em; background : #575757;}
-.content { color: #3B2A0A; margin: 0 auto; padding: 0; width: 825px; background: url(bg2.jpg) repeat-y center bottom; }
-#header { background: url(header.jpg) no-repeat; width: 825px; height: 213px; color: #3B2A0A; }
+/* * { padding: 0; margin: 0 } */
+/* body { margin:5px 0; padding:0; font: 74% Arial, Sans-Serif; color:#000; line-height: 1.4em; background : #575757;} */
+.content { color: #3B2A0A; margin: 0 auto; padding: 0; width: 825px; background: url(images_b-n/bg2.jpg) repeat-y center bottom; }
+#header_b-n { background: url(images_b-n/header.jpg) no-repeat; width: 825px; height: 213px; color: #3B2A0A; }
 #header h1 { background: inherit; font: bold 3em "Tahoma", Arial; color: #85621E; line-height: 1em;}
 #header h3 { background: inherit; font: bold 1em "Tahoma", Arial; color: #000; }
 #header .title { padding: 60px 0 0 60px; }
-#main { background: url(bg.jpg) no-repeat top; height: 353px; margin: 0; padding: 0 }	
+#main { background: url(images_b-n/bg.jpg) no-repeat top; height: 353px; margin: 0; padding: 0 }	
 #main .center { width: 550px; float: right; padding: 0 60px 0 0px; }
 #main h2 { background-color: inherit; color: #85621E; line-height: 0.2em; }
 #main h3 { font: 85% Arial, Sans-Serif; margin: 0 0 10px 0; padding: 0; color: #5f5f5f; background: inherit; }
@@ -356,13 +350,13 @@ body { margin:5px 0; padding:0; font: 74% Arial, Sans-Serif; color:#000; line-he
 .img { background: #FFF; float: left; padding: 1px; margin: 5px 8px 5px 0; color: #333; border: 1px solid #e0e0e0; }
 
 /* PREFOOTER */
-#prefooter { background: url(prefooter.jpg) no-repeat; color: #85621f; height: 190px; text-align: left;  clear: both; padding: 0px; margin: 0; }
+#prefooter { background: url(images_b-n/prefooter.jpg) no-repeat; color: #85621f; height: 190px; text-align: left;  clear: both; padding: 0px; margin: 0; }
 #prefooter .particles { float: right; width: 300px; padding: 20px 30px 0 0; background: transparent }
 #prefooter .comments { width: 270px; padding: 20px 0px 0 0px; float: right; background: transparent }
 
 
 /* FOOTER */
-#footer { background: url(footer.jpg) no-repeat; color: #8f8f8f; height: 44px; text-align: right; font-size: 90%; clear: both; padding: 0; margin: 0;}
+#footer { background: url(images_b-n/footer.jpg) no-repeat; color: #8f8f8f; height: 44px; text-align: right; font-size: 90%; clear: both; padding: 0; margin: 0;}
 #footer .padding { padding: 20px 60px 0 0; }
 #footer hr { width: 740px; color: #888; border: 1px solid #f0f0f0; margin: 0 25px 0 25px;  }
 #footer a { 	color: #999;  text-decoration:none; }
