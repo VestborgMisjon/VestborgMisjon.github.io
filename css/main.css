@@ -688,7 +688,7 @@ ul.nostyle i {
   border-top-color: #eee;
 }
 #animated-number {
-  padding: 100px 0 70px;
+  padding: 100px 0 0px;
   background: #132125 url(../images/animated-number/bg.jpg) no-repeat 0 0;
   background-size: cover;
   color: #fff;
