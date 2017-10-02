@@ -307,14 +307,14 @@ ul.nostyle i {
   background: rgba(0, 0, 0, 0.1);
 }
 #cta {
-  padding: 0px 0;
+  padding: 40px 0;
   background-color: #eeeeee;
 }
 #cta h2 {
   margin-top: 0;
 }
 #cta .btn {
-  margin-top: 40px;
+  margin-top: 5px;
 }
 #cta2 {
   background: rgba(255, 179, 179, 0.09); url(../images/cta2/cta2-bg.jpg) no-repeat 50% 50%; /* før va d background: #242a33 */ /* obs om ein vil ha bakgrunn kan ein uncommente url */
