@@ -16,11 +16,11 @@ body {
   color: #64686d;
   line-height: 26px;
 }
-@media (max-width: 978px) {
+/*@media (max-width: 978px) {
       body {
       padding-top: 80px !important;
     }
-}
+} */
 h1,
 h2,
 h3,
