@@ -14,7 +14,7 @@ audio:not([controls]){display:none;height:0}
 a{background-color:transparent}
 a:active,a:hover{outline:0}
 abbr[title]{border-bottom:1px dotted}
-b,strong{font-weight:700}
+b,strong{font-weight:700; text-align: left; line-height: 14px;}
 dfn{font-style:italic}
 h1{margin:.67em 0;font-size:2em}
 mark{color:#000;background:#ff0}
