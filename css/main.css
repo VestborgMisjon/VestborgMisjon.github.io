@@ -782,7 +782,7 @@ ul.nostyle i {
 }
 #klassa ul.pricing.featured li.plan-header {
   background-image: -moz-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
-  background-image: -webkit-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
+  background-image: -webkit-linear-gradient(60deg, #61cbc3 0%, #373860 100%);
   background-image: -ms-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
 }
 #klassa ul.pricing.featured li.plan-header .plan-name {
