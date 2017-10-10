@@ -600,6 +600,7 @@ ul.nostyle i {
   border: 2px solid #eeeeee;
   transition: border-color 400ms;
   -webkit-transition: border-color 400ms;
+  min-height:600px;   /*før va ikkje dinna her, den e for at leiar boksane skal vere like store*/
 }
 #meet-team .team-member .team-img {
   margin: -15px -15px 0 -15px;
