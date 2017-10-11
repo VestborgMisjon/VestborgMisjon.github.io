@@ -8,7 +8,7 @@ Author URL: http://hostingred.com
 USE THIS FILE TO INCLUDE YOUR OWN CSS STYLES
 ********************************************/
 
-/* col indikator */
+/* col indikator 
 body:before
 {
 	position: fixed;
@@ -27,7 +27,7 @@ body:before
 @media (min-width: 992px) { body:before { content: "MD"; background: green; } }
 @media (min-width: 1200px) { body:before { content: "LG"; background: blue; } }
 
-/* */
+ */
 
 .work-process {
   width: 100%;
