@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 
-<!-- HER ER 3 FORSKJELLIGE MÅTER Å HA 404 PÅ ME REDIRECT. DEI TO FYRSTE ER AUTOMATISK REDIRECT -->
+<!-- HER ER 4 FORSKJELLIGE MÅTER Å HA 404 PÅ ME REDIRECT. DEI TO FYRSTE ER AUTOMATISK REDIRECT. DEN FJERDE KAN VERTE BRUKT SOM COUNTDOWN -->
 
-
+<!--
 <html>
     <head>
-        <meta http-equiv="refresh" content="0;url=http://vestborgmisjon.no" />
+        <meta http-equiv="refresh" content="0;url=http://vestborgmisjon.no" /> 
     </head>
     <body>
         <h1>Tilbake til vestborgmisjon.no</h1>
     </body>
 </html>
-
+--> 
+<!-- 0 kan bytast ut med kor mange sek det skal ta -->
 
 
 <!--
@@ -56,3 +57,21 @@
 </body>
 </html>
 -->
+
+
+
+<html>
+<body>
+    <div id="counter">5</div>
+    <script>
+        setInterval(function() {
+            var div = document.querySelector("#counter");
+            var count = div.textContent * 1 - 1;
+            div.textContent = count;
+            if (count <= 0) {
+                window.location.href="https://example.com";
+            }
+        }, 1000);
+    </script>
+</body>
+</html>
