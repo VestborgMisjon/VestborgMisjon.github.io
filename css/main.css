@@ -32,7 +32,7 @@ h6 {
   color: #272727;
 }
 a {
-  color: #BE1414;
+  color: #6B8E23;
   -webkit-transition: color 400ms, background-color 400ms;
   -moz-transition: color 400ms, background-color 400ms;
   -o-transition: color 400ms, background-color 400ms;
@@ -41,7 +41,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #A00303;
+  color: #808000;
 }
 hr {
   border-top: 1px solid #e5e5e5;
@@ -88,7 +88,7 @@ hr {
   margin-left: -12px;
   border: 5px solid #fff;
   border-radius: 20px;
-  background: #BE1414;
+  background: #6B8E23;
 }
 .btn {
   border-width: 0;
@@ -96,12 +96,12 @@ hr {
   border-radius: 3px;
 }
 .btn.btn-primary {
-  background: #BE1414;
-  border-color: #A00303;
+  background: #6B8E23;
+  border-color: #808000;
 }
 .btn.btn-primary:hover,
 .btn.btn-primary:focus {
-  background: #A00303;
+  background: #808000;
 }
 .column-title {
   margin-top: 0;
@@ -116,7 +116,7 @@ hr {
   bottom: -1px;
   left: 0;
   width: 40%;
-  border-bottom: 1px solid #BE1414;
+  border-bottom: 1px solid #6B8E23;
 }
 ul.nostyle {
   list-style: none;
@@ -124,7 +124,7 @@ ul.nostyle {
   margin-bottom: 20px;
 }
 ul.nostyle i {
-  color: #BE1414;
+  color: #6B8E23;
 }
 .scaleIn {
   -webkit-animation-name: scaleIn;
@@ -174,7 +174,7 @@ ul.nostyle i {
 #main-menu.navbar-default .navbar-nav > li.active > a, #main-menu.navbar-default .navbar-nav > li.open > a, #main-menu.navbar-default .navbar-nav > li:hover > a {
     background: transparent;
     margin-top: -3px;
-    border-top: 3px solid #BE1414;
+    border-top: 3px solid #6B8E23;
 }
 @media only screen and (min-width: 1214px) { /*før va d 768*/
   #main-menu.navbar-default {
@@ -191,7 +191,7 @@ ul.nostyle i {
   #main-menu.navbar-default .navbar-nav > li:hover > a {
     background: transparent;
     padding-top: 37px;
-    border-top: 3px solid #BE1414;
+    border-top: 3px solid #6B8E23;
   }
   #main-menu.navbar-default .dropdown-menu {
     padding: 0 20px;
@@ -224,12 +224,12 @@ ul.nostyle i {
   #main-menu.navbar-default .dropdown-menu > li.active,
   #main-menu.navbar-default .dropdown-menu > li.open,
   #main-menu.navbar-default .dropdown-menu > li:hover {
-    border-left-color: #BE1414;
+    border-left-color: #6B8E23;
   }
   #main-menu.navbar-default .dropdown-menu > li.active > a,
   #main-menu.navbar-default .dropdown-menu > li.open > a,
   #main-menu.navbar-default .dropdown-menu > li:hover > a {
-    color: #BE1414;
+    color: #6B8E23;
     background-color: transparent;
   }
 }
@@ -258,7 +258,7 @@ ul.nostyle i {
   color: #fff;
 }
 #main-slider .slider-inner h2 > span {
-  color: #BE1414;
+  color: #6B8E23;
 }
 #main-slider .slider-inner .btn {
   margin-top: 10px;
@@ -283,7 +283,7 @@ ul.nostyle i {
 }
 #main-slider .owl-prev:hover,
 #main-slider .owl-next:hover {
-  background-color: #BE1414;
+  background-color: #6B8E23;
 }
 #main-slider .owl-prev {
   left: -35px;
@@ -297,7 +297,7 @@ ul.nostyle i {
   width: 0%;
   max-width: 100%;
   height: 4px;
-  background: #BE1414;
+  background: #6B8E23;
 }
 #progressBar {
   margin-top: -4px;
@@ -331,7 +331,7 @@ ul.nostyle i {
   line-height: 1;
 }
 #cta2 h2 > span {
-  color: #BE1414;
+  color: #6B8E23;
 }
 #features {
   padding: 100px 0;
@@ -355,7 +355,7 @@ ul.nostyle i {
   text-align: center;
   width: 64px;
   border-radius: 100%;
-  color: #BE1414;
+  color: #6B8E23;
   box-shadow: inset 0 0 0 1px #d7d7d7;
   -webkit-box-shadow: inset 0 0 0 1px #d7d7d7;
   transition: background-color 400ms, background-color 400ms;
@@ -371,7 +371,7 @@ ul.nostyle i {
   right: -10px;
   border: 4px solid #fff;
   border-radius: 20px;
-  background: #BE1414;
+  background: #6B8E23;
 }
 .media.service-box:hover .pull-left > i {
   background-image: -moz-linear-gradient(90deg, #e0bcbc 0%, #ffb3b3 100%);
@@ -404,7 +404,7 @@ ul.nostyle i {
 }
 #portfolio .portfolio-filter > li a:hover,
 #portfolio .portfolio-filter > li a.active {
-  background: #BE1414;
+  background: #6B8E23;
   color: #fff;
   box-shadow: 0 -3px 0 0 #ff2525 inset;
   -webkit-box-shadow: 0 -3px 0 0 #ff2525 inset;
@@ -571,14 +571,14 @@ ul.nostyle i {
   width: 80px;
   height: 80px;
   line-height: 80px;
-  border: 2px solid #BE1414;
+  border: 2px solid #6B8E23;
   border-radius: 100px;
   position: relative;
 }
 #work-process .icon-circle > span {
   border-style: solid;
   border-width: 2px;
-  border-color: #BE1414;
+  border-color: #6B8E23;
   border-radius: 50%;
   background-color: #fff;
   position: absolute;
@@ -611,10 +611,10 @@ ul.nostyle i {
   margin-bottom: 10px;
 }
 #meet-team .team-member:hover {
-  border-color: #BE1414;
+  border-color: #6B8E23;
 }
 #meet-team .team-member:hover .social-icons > li > a {
-  background: #BE1414;
+  background: #6B8E23;
 }
 #meet-team .social-icons {
   list-style: none;
@@ -665,7 +665,7 @@ ul.nostyle i {
 }
 .nav.main-tab > li.active > a {
   background: #222534;
-  color: #BE1414;
+  color: #6B8E23;
 }
 .nav.main-tab > li:first-child > a {
   border-radius: 3px 0 0 0;
@@ -838,7 +838,7 @@ ul.nostyle i {
   display: block;
   margin-bottom: 5px;
   text-transform: uppercase;
-  color: #BE1414;
+  color: #6B8E23;
 }
 #blog .blog-post.blog-large .entry-title {
   margin-top: 0;
@@ -850,7 +850,7 @@ ul.nostyle i {
   color: #64686d;
 }
 #blog .blog-post.blog-large .entry-title a:hover {
-  color: #BE1414;
+  color: #6B8E23;
 }
 #blog .blog-post.blog-media {
   margin-bottom: 30px;
@@ -869,7 +869,7 @@ ul.nostyle i {
   display: block;
   margin-bottom: 5px;
   text-transform: uppercase;
-  color: #BE1414;
+  color: #6B8E23;
 }
 #blog .blog-post.blog-media .entry-title {
   margin-top: 0;
@@ -881,7 +881,7 @@ ul.nostyle i {
   color: #64686d;
 }
 #blog .blog-post.blog-media .entry-title a:hover {
-  color: #BE1414;
+  color: #6B8E23;
 }
 #blog .blog-post .entry-meta {
   margin-top: 20px;
@@ -897,7 +897,7 @@ ul.nostyle i {
   color: #999;
 }
 #blog .blog-post .entry-meta > span > a:hover {
-  color: #BE1414;
+  color: #6B8E23;
 }
 #contact {
   position: relative;
@@ -936,7 +936,7 @@ ul.nostyle i {
   color: #fff;
 }
 #footer a:hover {
-  color: #BE1414;
+  color: #6B8E23;
 }
 #footer ul {
   list-style: none;
@@ -977,7 +977,7 @@ ul.nostyle i {
   color: #fff;
 }
 #footer1 a:hover {
-  color: #BE1414;
+  color: #6B8E23;
 }
 #footer1 ul {
   list-style: none;
