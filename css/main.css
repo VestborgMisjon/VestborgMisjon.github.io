@@ -48,14 +48,14 @@ hr {
   border-bottom: 1px solid #fff;
 }
 .gradiant {
-  background-image: -moz-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
-  background-image: -webkit-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
-  background-image: -ms-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
+  background-image: -moz-linear-gradient(90deg, #228B22 0%, #228B22 100%);
+  background-image: -webkit-linear-gradient(90deg, #228B22 0%, #228B22 100%);
+  background-image: -ms-linear-gradient(90deg, #228B22 0%, #228B22 100%);
 }
 .gradiant-horizontal {
-  background-image: -moz-linear-gradient(4deg, #2caab3 0%, #2c8cb3 100%);
-  background-image: -webkit-linear-gradient(4deg, #2caab3 0%, #2c8cb3 100%);
-  background-image: -ms-linear-gradient(4deg, #2caab3 0%, #2c8cb3 100%);
+  background-image: -moz-linear-gradient(4deg, #228B22 0%, #228B22 100%);
+  background-image: -webkit-linear-gradient(4deg, #228B22 0%, #228B22 100%);
+  background-image: -ms-linear-gradient(4deg, #228B22 0%, #228B22 100%);
 }
 .section-header {
   margin-bottom: 50px;
