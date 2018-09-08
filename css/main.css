@@ -406,8 +406,8 @@ ul.nostyle i {
 #portfolio .portfolio-filter > li a.active {
   background: #6B8E23;
   color: #fff;
-  box-shadow: 0 -3px 0 0 #ff2525 inset;
-  -webkit-box-shadow: 0 -3px 0 0 #ff2525 inset;
+  box-shadow: 0 -3px 0 0 #808000 inset;
+  -webkit-box-shadow: 0 -3px 0 0 #808000 inset;
 }
 #portfolio .portfolio-filter > li a.active:after {
   content: " ";
@@ -417,7 +417,7 @@ ul.nostyle i {
   margin-left: -10px;
   border-width: 10px;
   border-style: solid;
-  border-color: #ff2525 transparent transparent transparent;
+  border-color: #808000	transparent transparent transparent;
 }
 #portfolio .portfolio-filter > li:first-child a {
   border-radius: 4px 0 0 4px;
