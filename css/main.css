@@ -103,13 +103,13 @@ hr {
 .btn.btn-primary:focus {
   background: #808000;
 }
-.column-title {
+/*.column-title {
   margin-top: 0;
   padding-bottom: 15px;
- /* border-bottom: 1px solid #eee;*/
+ /* border-bottom: 1px solid #eee;
   margin-bottom: 15px;
   position: relative;
-}
+}*/
 .column-title:after {
   content: " ";
   position: absolute;
