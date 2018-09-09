@@ -596,11 +596,11 @@ ul.nostyle i {
 }
 #meet-team .team-member {
   padding: 13px;
-  background: #eeeeee;
-  border: 2px solid #eeeeee;
+  background: #c6d4b1;
+  border: 2px solid #c6d4b1;
   transition: border-color 400ms;
   -webkit-transition: border-color 400ms;
-  min-height:600px;   /*før va ikkje dinna her, den e for at leiar boksane skal vere like store*/
+  /*min-height:600px;   /*før va ikkje dinna her, den e for at leiar boksane skal vere like store*/ 
 }
 #meet-team .team-member .team-img {
   margin: -15px -15px 0 -15px;
