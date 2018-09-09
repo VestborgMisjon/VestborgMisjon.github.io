@@ -278,8 +278,8 @@ ul.nostyle i {
   text-align: center;
   border-radius: 100px;
   z-index: 5;
-  -webkit-transition: background-color 400ms;
-  transition: background-color 400ms;
+  -webkit-transition: background-color #dae5c9;
+  transition: background-color #dae5c9;
 }
 #main-slider .owl-prev:hover,
 #main-slider .owl-next:hover {
