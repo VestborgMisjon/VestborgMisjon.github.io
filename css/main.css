@@ -10,7 +10,7 @@ Author URL: http://hostingred.com
 **************************/
 body {
   padding-top: 81px;
-  background: #c6d4b1;
+  background: ghostwhite;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   color: #64686d;
@@ -33,10 +33,10 @@ h6 {
 }
 a {
   color: #6B8E23;
-  -webkit-transition: color 248ms, background-color 248ms;
-  -moz-transition: color 248ms, background-color 248ms;
-  -o-transition: color 248ms, background-color 248ms;
-  transition: color 248ms, background-color 248ms;
+  -webkit-transition: color ghostwhite, background-color ghostwhite;
+  -moz-transition: color ghostwhite, background-color ghostwhite;
+  -o-transition: color ghostwhite, background-color ghostwhite;
+  transition: color ghostwhite, background-color ghostwhite;
 }
 a:hover,
 a:focus {
