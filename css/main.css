@@ -553,7 +553,7 @@ ul.nostyle i {
 }
 #work-process {
   padding: 10px 0 50px;
-  background: url(../images/Indonesiakart_opacity50.png) no-repeat 0 0; /* før va d #20222e foran url */
+  background: url(../images/Fjell.png) no-repeat 0 0; /* før va d #20222e foran url */
   background-size: cover;
   /*max-height: 200px;  *//* for å få work-process til å ikkje utvide seg i høgda i mobilformat obs. funka berre på bilete, ikkje på sjølve containeren */
   color: #fff;
@@ -695,7 +695,7 @@ ul.nostyle i {
 }
 #animated-number {
   padding: 100px 0 0px;
-  background: rgb(55, 56, 96) url(../images/Indonesiakart_opacity50.png) no-repeat 0 0;
+  background: rgb(55, 56, 96) url(../images/Fjell.png) no-repeat 0 0;
   background-size: cover;
   color: #fff;
 }
