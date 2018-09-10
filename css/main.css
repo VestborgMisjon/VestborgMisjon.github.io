@@ -62,7 +62,7 @@ hr {
 }
 .section-header .section-title {
   font-size: 44px;
-  color: #c5ceab;
+  color: #333;
   text-transform: uppercase;
   position: relative;
   padding-bottom: 20px;
@@ -383,7 +383,7 @@ ul.nostyle i {
 }
 #portfolio {
   padding: 100px 0;
-  background: #f5f5f5;
+  background: #c5ceab;
 }
 #portfolio .portfolio-filter {
   list-style: none;
