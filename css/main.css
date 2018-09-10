@@ -44,8 +44,8 @@ a:focus {
   color: #808000;
 }
 hr {
-  border-top: 1px solid #e5e5e5;
-  border-bottom: 1px solid #fff;
+  border-top: 0px solid #e5e5e5;
+  border-bottom: 0px solid #fff;
 }
 .gradiant {
   background-image: -moz-linear-gradient(90deg, #228B22 0%, #228B22 100%);
@@ -75,7 +75,7 @@ hr {
   bottom: 0;
   left: 50%;
   margin-left: -70px;
-  height: 1px;
+  height: 0px;
   background: #ebebeb;
 }
 .section-header .section-title:after {
@@ -106,17 +106,17 @@ hr {
 /*.column-title {
   margin-top: 0;
   padding-bottom: 15px;
- /* border-bottom: 1px solid #eee;
+ /* border-bottom: 0px solid #eee;
   margin-bottom: 15px;
   position: relative;
 }*/
 .column-title:after {
   content: " ";
   position: absolute;
-  bottom: -1px;
+  bottom: 0px;
   left: 0;
   width: 40%;
-  border-bottom: 1px solid #6B8E23;
+  border-bottom: 0px solid #6B8E23;
 }
 ul.nostyle {
   list-style: none;
@@ -211,7 +211,7 @@ ul.nostyle i {
     transition: border-color 400ms;
   }
   #main-menu.navbar-default .dropdown-menu > li > a {
-    border-top: 1px solid #404455;
+    border-top: 0px solid #404455;
     padding-left: 15px;
     padding-right: 15px;
     padding-top: 40px;
@@ -607,7 +607,7 @@ ul.nostyle i {
 }
 #meet-team .team-member .team-info {
   padding-bottom: 10px;
-  border-bottom: 1px solid #dbdbdb;
+  border-bottom: 0px solid #dbdbdb;
   margin-bottom: 10px;
 }
 #meet-team .team-member:hover {
@@ -641,7 +641,7 @@ ul.nostyle i {
   background-image: -webkit-linear-gradient(180deg, #ffffff 0%, #e3e3e3 49%, #ffffff 100%);
   background-image: -ms-linear-gradient(180deg, #ffffff 0%, #e3e3e3 49%, #ffffff 100%);
   width: 95%;
-  height: 1px;
+  height: 0px;
 }
 .progress {
   -webkit-box-shadow: none;
@@ -674,7 +674,7 @@ ul.nostyle i {
   border-radius: 0 3px 0 0;
 }
 .tab-content {
-  border: 1px solid #eee;
+  border: 0px solid #eee;
   border-top: 0;
   padding: 20px 20px 10px;
   border-radius: 0 0 3px 3px;
@@ -726,7 +726,7 @@ ul.nostyle i {
   list-style: none;
   padding: 0;
   margin: 70px 0 30px;
-  border: 1px solid #eee;
+  border: 0px solid #eee;
   border-radius: 5px 5px 4px 4px;
   padding: 15px;
   text-align: center;
@@ -804,7 +804,7 @@ ul.nostyle i {
   padding: 100px 0;
 }
 #blog .blog-post {
-  border: 1px solid #eee;
+  border: 0px solid #eee;
   padding: 15px;
 }
 #blog .blog-post .post-format {
@@ -885,7 +885,7 @@ ul.nostyle i {
 }
 #blog .blog-post .entry-meta {
   margin-top: 20px;
-  border-top: 1px solid #eee;
+  border-top: 0px solid #eee;
   padding-top: 15px;
 }
 #blog .blog-post .entry-meta > span {
