@@ -557,7 +557,7 @@ ul.nostyle i {
   background-size: cover;
   /*max-height: 200px;  *//* for å få work-process til å ikkje utvide seg i høgda i mobilformat obs. funka berre på bilete, ikkje på sjølve containeren */
   color: #fff;
-  background-color: rgb(146, 146, 146); /* før va dinna ikkje her */
+  background-color: rgb(192, 193, 189); /* før va dinna ikkje her */
 }
 #work-process h2 {
   color: #fff;
